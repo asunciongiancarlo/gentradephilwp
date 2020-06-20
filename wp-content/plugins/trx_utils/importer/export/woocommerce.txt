@@ -1,0 +1,1 @@
+a:5:{s:32:"woocommerce_attribute_taxonomies";a:0:{}s:44:"woocommerce_downloadable_product_permissions";a:0:{}s:26:"woocommerce_order_itemmeta";a:0:{}s:23:"woocommerce_order_items";a:0:{}s:20:"woocommerce_termmeta";a:0:{}}

@@ -1,0 +1,5 @@
+PROCESSED on Thu, 18 Jun 2020 00:30:17 +0000
+/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css
+/wp-content/themes/bugspatrol/fw/js/swiper/swiper.css
+/wp-content/themes/bugspatrol/fw/js/core.messages/core.messages.css
+PROCESSED from http://local.gentradewp/

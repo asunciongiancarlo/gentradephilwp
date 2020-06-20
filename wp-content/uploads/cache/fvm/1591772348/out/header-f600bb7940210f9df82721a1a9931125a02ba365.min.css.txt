@@ -1,0 +1,4 @@
+PROCESSED on Thu, 11 Jun 2020 07:14:40 +0000
+/wp-content/plugins/booked-woocommerce-payments/css/frontend-style.css
+/wp-content/plugins/wp-gdpr-compliance/assets/css/front.min.css
+PROCESSED from http://local.gentradewp/products/

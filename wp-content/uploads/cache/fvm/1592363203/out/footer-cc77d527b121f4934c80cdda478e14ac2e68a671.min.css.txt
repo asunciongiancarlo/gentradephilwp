@@ -1,0 +1,3 @@
+PROCESSED on Thu, 18 Jun 2020 00:30:51 +0000
+/wp-content/themes/bugspatrol/fw/js/prettyphoto/css/prettyPhoto.css
+PROCESSED from http://local.gentradewp/services/termite-extermination/

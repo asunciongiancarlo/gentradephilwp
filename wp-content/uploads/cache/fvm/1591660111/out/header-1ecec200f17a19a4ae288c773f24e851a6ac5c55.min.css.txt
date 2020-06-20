@@ -1,0 +1,15 @@
+PROCESSED on Mon, 08 Jun 2020 23:56:08 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+/wp-content/plugins/booked/assets/css/icons.css
+/wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster.css
+/wp-content/plugins/booked/assets/js/tooltipster/css/themes/tooltipster-light.css
+/wp-content/plugins/booked/assets/css/animations.css
+/wp-content/plugins/booked/assets/css/styles.css
+/wp-content/plugins/booked/assets/css/responsive.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/essential-grid/public/assets/css/settings.css
+/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css
+/wp-content/plugins/revslider/public/assets/css/rs6.css
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+PROCESSED from http://local.gentradewp/

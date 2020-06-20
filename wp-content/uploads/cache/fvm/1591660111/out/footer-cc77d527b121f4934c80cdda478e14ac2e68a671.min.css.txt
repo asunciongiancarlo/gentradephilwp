@@ -1,0 +1,3 @@
+PROCESSED on Mon, 08 Jun 2020 23:58:22 +0000
+/wp-content/themes/bugspatrol/fw/js/prettyphoto/css/prettyPhoto.css
+PROCESSED from http://local.gentradewp/services/insect-control/

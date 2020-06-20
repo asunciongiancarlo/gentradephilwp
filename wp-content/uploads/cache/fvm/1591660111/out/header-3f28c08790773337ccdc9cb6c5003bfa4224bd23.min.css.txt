@@ -1,0 +1,12 @@
+PROCESSED on Mon, 08 Jun 2020 23:56:09 +0000
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+/wp-content/plugins/booked-frontend-agents/css/styles.css
+/wp-content/themes/bugspatrol/css/fontello/css/fontello.css
+/wp-content/themes/bugspatrol/style.css
+/wp-content/themes/bugspatrol/fw/css/core.animation.css
+/wp-content/plugins/trx_utils/shortcodes/theme.shortcodes.css
+/wp-content/themes/bugspatrol/css/theme.css
+/wp-content/themes/bugspatrol/css/plugin.booked.css
+/wp-content/themes/bugspatrol/css/plugin.woocommerce.css
+/wp-content/themes/bugspatrol/css/responsive.css
+PROCESSED from http://local.gentradewp/

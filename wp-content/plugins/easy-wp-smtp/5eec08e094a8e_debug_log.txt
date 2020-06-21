@@ -3,4 +3,4 @@ Easy WP SMTP debug log file
 CLIENT -> SERVER: EHLO local.gentradewp
 SMTP Error: Could not authenticate.CLIENT -> SERVER: QUIT
 SMTP Error: Could not authenticate.CLIENT -> SERVER: EHLO local.gentradewp
-SMTP ERROR: EHLO command failed: SMTP NOTICE: EOF caught while checking if connectedSMTP Error: Could not authenticate.SMTP Error: Could not authenticate.
+SMTP ERROR: EHLO command failed: SMTP NOTICE: EOF caught while checking if connectedSMTP Error: Could not authenticate.SMTP Error: Could not authenticate.SMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingSMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
